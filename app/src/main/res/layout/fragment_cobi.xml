@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".ui.cori.CoriFragment">
+
+
+    <ImageButton
+        android:id="@+id/acao_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:scaleType="fitCenter"
+        android:src="@drawable/acao2"
+        app:layout_column="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.25"
+        app:layout_row="0"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AÇÕES"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_column="0"
+        app:layout_constraintEnd_toEndOf="@+id/acao_cobi"
+        app:layout_constraintStart_toStartOf="@+id/acao_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/acao_cobi"
+        app:layout_row="0" />
+
+    <ImageButton
+        android:id="@+id/video_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:contentDescription="TODO"
+        android:scaleType="fitCenter"
+        android:src="@drawable/video2"
+        app:layout_column="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.25"
+        app:layout_row="0"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VIDEOS"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_column="1"
+        app:layout_constraintEnd_toEndOf="@+id/video_cobi"
+        app:layout_constraintStart_toStartOf="@+id/video_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/video_cobi"
+        app:layout_row="0" />
+
+    <ImageButton
+        android:id="@+id/dados_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:contentDescription="TODO"
+        android:scaleType="fitCenter"
+        android:src="@drawable/dados"
+        app:layout_column="2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.54"
+        app:layout_row="0"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DADOS"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_column="2"
+        app:layout_constraintEnd_toEndOf="@+id/dados_cobi"
+        app:layout_constraintStart_toStartOf="@+id/dados_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/dados_cobi"
+        app:layout_row="0" />
+
+    <ImageButton
+        android:id="@+id/contato_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:scaleType="fitCenter"
+        android:src="@drawable/contato"
+        app:layout_column="2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.81"
+        app:layout_row="1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CONTATO"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_column="2"
+        app:layout_constraintEnd_toEndOf="@+id/contato_cobi"
+        app:layout_constraintStart_toStartOf="@+id/contato_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/contato_cobi"
+        app:layout_row="1" />
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="89dp"
+        android:layout_height="72dp"
+        android:src="@drawable/ufopa"
+        app:layout_column="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.02"
+        app:layout_row="0" />
+
+    <ImageButton
+        android:id="@+id/relatorio_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:contentDescription="TODO"
+        android:scaleType="fitCenter"
+        android:src="@drawable/relatorio"
+        app:layout_column="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.81"
+        app:layout_row="1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RELATORIOS"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:layout_column="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/relatorio_cobi"
+        app:layout_constraintStart_toStartOf="@+id/relatorio_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/relatorio_cobi"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_row="1" />
+
+    <ImageButton
+        android:id="@+id/editais_cobi"
+        android:layout_width="108dp"
+        android:layout_height="86dp"
+        android:backgroundTint="#D9F1BD"
+        android:contentDescription="TODO"
+        android:scaleType="fitCenter"
+        android:src="@drawable/edital"
+        app:layout_column="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.20"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.54"
+        app:layout_row="1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EDITAIS"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_column="0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/editais_cobi"
+        app:layout_constraintStart_toStartOf="@+id/editais_cobi"
+        app:layout_constraintTop_toBottomOf="@+id/editais_cobi"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_row="1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

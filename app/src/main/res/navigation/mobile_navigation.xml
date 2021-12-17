@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="br.edu.ufopa.muticampi.ui.inicio.inicioFragment"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_cori"
+        android:name="br.edu.ufopa.muticampi.ui.cori.CoriFragment"
+        tools:layout="@layout/fragment_cori" />
+
+    <fragment
+        android:id="@+id/nav_cale"
+        android:name="br.edu.ufopa.muticampi.ui.cale.CaleFragment"
+        tools:layout="@layout/fragment_cale" />
+    <fragment
+        android:id="@+id/nav_cobi"
+        android:name="br.edu.ufopa.muticampi.ui.cobi.CobiFragment"
+        tools:layout="@layout/fragment_cobi" />
+
+    <fragment
+        android:id="@+id/nav_cmal"
+        android:name="br.edu.ufopa.muticampi.ui.cmal.CmalFragment"
+        tools:layout="@layout/fragment_cmal" />
+
+    <fragment
+        android:id="@+id/nav_cjur"
+        android:name="br.edu.ufopa.muticampi.ui.cjur.CjurFragment"
+        tools:layout="@layout/fragment_cjur" />
+
+    <fragment
+        android:id="@+id/nav_citb"
+        android:name="br.edu.ufopa.muticampi.ui.citb.CitbFragment"
+        tools:layout="@layout/fragment_citb" />
+
+    <fragment
+        android:id="@+id/nav_sobre"
+        android:name="br.edu.ufopa.muticampi.ui.sobre.sobreFragment"
+        tools:layout="@layout/fragment_sobre" />
+
+
+</navigation>

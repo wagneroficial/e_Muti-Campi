@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/botao.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/fgundo_perfil.xml" value="0.26851851851851855" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/fundo.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/ic_baseline_enhanced_encryption_24.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/drawable/side_nav_bar.xml" value="0.26851851851851855" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.243359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout-w936dp/activity_login.xml" value="0.26953125" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_cale.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_citb.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_cjur.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_cmal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_cobi.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_acao_cori.xml" value="0.1" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato.xml" value="0.1853932584269663" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato_cale.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato_citb.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato_cjur.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato_cmal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_contato_cobi.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_cale.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_citb.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_cjur.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_cmal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_cobi.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dados_cori.xml" value="0.2817028985507246" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_dicente.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_cale.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_citb.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_cjur.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_cmal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_cobi.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_editais_cori.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_login.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_main2.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_perfil_uuario.xml" value="0.35384615384615387" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_relatorio.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_tela2.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_tela_discente.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/activity_usuario.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/app_bar_dicente.xml" value="0.2963917525773196" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/content_dicente.xml" value="0.22" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_cale.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_citb.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_cjur.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_cmal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_cobi.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_cori.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_discente.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_inicio.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/fragment_sobre.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/logar.xml" value="0.33" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/nav_header_dicente.xml" value="0.5" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/toobar.xml" value="0.17" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/layout/videos.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/menu/activity_main_drawer.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/menu/dicente.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/menu/dicente_principal.xml" value="0.359375" />
+        <entry key="..\:/Users/UFOPA/AndroidStudioProjects/MutiCampi2/app/src/main/res/menu/main.xml" value="0.34814814814814815" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

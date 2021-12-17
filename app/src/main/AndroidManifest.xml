@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.ufopa.muticampi" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="e_Muti Campi"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MutiCampi" >
+        <activity
+            android:name=".Comprovante_vacina"
+            android:exported="false"
+            android:parentActivityName=".Tela_Discente"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".Tela_Discente"
+            android:exported="true"
+            android:label="e_Muti Campi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".usuario"
+            android:exported="false"
+            android:parentActivityName=".Tela_Discente"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.citb.EditaisCitb"
+            android:exported="false"
+            android:parentActivityName=".ui.citb.EditaisCitb"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.citb.DadosCitb"
+            android:exported="false"
+            android:parentActivityName=".ui.citb.DadosCitb"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.citb.ContatoCitb"
+            android:exported="false"
+            android:parentActivityName=".ui.citb.ContatoCitb"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.citb.acaoCitb"
+            android:exported="false"
+            android:parentActivityName=".ui.citb.acaoCitb"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cmal.EditaisCmal"
+            android:exported="false"
+            android:parentActivityName=".ui.cmal.EditaisCmal"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cmal.DadosCmal"
+            android:exported="false"
+            android:parentActivityName=".ui.cmal.DadosCmal"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cmal.ContatoCmal"
+            android:exported="false"
+            android:parentActivityName=".ui.cmal.ContatoCmal"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cmal.AcaoCmal"
+            android:exported="false"
+            android:parentActivityName=".ui.cmal.AcaoCmal"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cjur.EditaisCjur"
+            android:exported="false"
+            android:parentActivityName=".ui.cjur.EditaisCjur"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cjur.DadosCjur"
+            android:exported="false"
+            android:parentActivityName=".ui.cjur.DadosCjur"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cjur.ContatoCjur"
+            android:exported="false"
+            android:parentActivityName=".ui.cjur.ContatoCjur"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cjur.AcaoCjur"
+            android:exported="false"
+            android:parentActivityName=".ui.cjur.AcaoCjur"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cobi.EditaisCobi"
+            android:exported="false"
+            android:parentActivityName=".ui.cobi.EditaisCobi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cobi.DadosCobi"
+            android:exported="false"
+            android:parentActivityName=".ui.cobi.DadosCobi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cobi.ContatoCobi"
+            android:exported="false"
+            android:parentActivityName=".ui.cobi.ContatoCobi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cobi.AcaoCobi"
+            android:exported="false"
+            android:parentActivityName=".ui.cobi.AcaoCobi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cale.EditaisCale"
+            android:exported="false"
+            android:parentActivityName=".ui.cale.EditaisCale"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cale.DadosCale"
+            android:exported="false"
+            android:parentActivityName=".ui.cale.DadosCale"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cale.ContatoCale"
+            android:exported="false"
+            android:parentActivityName=".ui.cale.ContatoCale"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cale.AcaoCale"
+            android:exported="false"
+            android:parentActivityName=".ui.cale.AcaoCale"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".Relatorio"
+            android:exported="false"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cori.ContatoCori"
+            android:exported="false"
+            android:parentActivityName=".ui.cori.ContatoCori"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cori.EditaisCori"
+            android:exported="false"
+            android:parentActivityName=".ui.cori.EditaisCori"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cori.DadosCori"
+            android:exported="false"
+            android:parentActivityName=".ui.cori.DadosCori"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".videos"
+            android:exported="false"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".ui.cori.acaoCori"
+            android:exported="false"
+            android:parentActivityName=".ui.cori.acaoCori"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".logar"
+            android:exported="false"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="e_Muti Campi"
+            android:theme="@style/Theme.MutiCampi.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

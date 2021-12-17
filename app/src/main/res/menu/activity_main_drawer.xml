@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_cori"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_cori" />
+        <item
+            android:id="@+id/nav_cale"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_cale" />
+        <item
+            android:id="@+id/nav_cobi"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_cobi" />
+        <item
+            android:id="@+id/nav_cjur"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_cjur" />
+        <item
+            android:id="@+id/nav_cmal"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_cmal" />
+        <item
+            android:id="@+id/nav_citb"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="@string/menu_citb" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_baseline_privacy_tip_24"
+            android:title="@string/menu_sobre" />
+    </group>
+</menu>
